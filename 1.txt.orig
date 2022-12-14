@@ -3,8 +3,11 @@ hello, governor
 hello, karnataka
 
 hello,
-<<<<<<< HEAD
 I am Simran Fairoz
-=======
 She is really doing well
->>>>>>> f2
+
+<<<<<<< HEAD
+changing for testing
+=======
+p2 change 1
+>>>>>>> 586ca8a9d0af1628a38f509e61f8228541e2ab03
